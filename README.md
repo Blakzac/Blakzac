@@ -71,8 +71,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-blakzacs-projects.vercel.app/api?username=Blakzac&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-blakzacs-projects.vercel.app/api/top-langs/?username=Blakzac&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats-phi-three-19.vercel.app/api?username=Blakzac&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-phi-three-19.vercel.app/api/top-langs/?username=Blakzac&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="Top Languages" />
 </div>
 
 <div align="center">
