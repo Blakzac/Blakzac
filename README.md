@@ -71,8 +71,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-phi-three-19.vercel.app/api?username=Blakzac&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-phi-three-19.vercel.app/api/top-langs/?username=Blakzac&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats-blakzacs-projects.vercel.app/api?username=Blakzac&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-blakzacs-projects.vercel.app/api/top-langs/?username=Blakzac&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -81,33 +81,6 @@
 
 <br/>
 
-<details>
-  <summary><b>🛠️ ¿Las estadísticas no cargan? Haz clic aquí para solucionarlo</b></summary>
-  <br/>
-  
-  La instancia pública de `github-readme-stats` suele saturarse debido a los límites de petición de la API de GitHub. La forma recomendada y definitiva para solucionar esto es **desplegar tu propia instancia gratuita en Vercel** (toma menos de 2 minutos):
-  
-  1. **Haz un Fork** del repositorio original: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
-  2. **Crea un Personal Access Token (PAT)** en tu cuenta de GitHub:
-     - Ve a `Settings` > `Developer Settings` > `Personal access tokens` > `Tokens (classic)`.
-     - Genera un nuevo token seleccionando los permisos `repo` y `read:user`.
-     - Copia el token generado.
-  3. **Despliega en Vercel**:
-     - Regístrate o inicia sesión en [Vercel](https://vercel.com/) vinculando tu cuenta de GitHub.
-     - Crea un nuevo proyecto e importa tu fork de `github-readme-stats`.
-     - En la sección **Environment Variables**, añade una variable:
-       - **Nombre:** `PAT_1`
-       - **Valor:** *[Pega tu Personal Access Token]*
-     - Haz clic en **Deploy**.
-  4. **Actualiza tu README.md**:
-     - Vercel te dará una URL única (ej. `tu-usuario.vercel.app`).
-     - Reemplaza `github-readme-stats.vercel.app` en las URLs de arriba con tu nueva URL de Vercel. ¡Y listo! Tus estadísticas cargarán al instante con 100% de disponibilidad.
-</details>
-
-<br/>
-
-
-<br/>
 
 <div align="center">
   <img src="./assets/divider.svg" width="100%" />
